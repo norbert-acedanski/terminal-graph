@@ -1,4 +1,4 @@
-# gcd
+# terminal-graphs
 
 # About The Project
 Very old program that draws data to the terminal.
